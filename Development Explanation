@@ -1,0 +1,12 @@
+In Sprint 2, the focus moved from building the basic foundation to creating a more *connected patient workflow.
+The selected user stories for this sprint were **secure patient login, booking an appointment, and viewing doctor availability.
+The goal of this sprint was to improve the system so that patients could move more smoothly from entering the portal to checking available slots and then making a booking. 
+
+In terms of the code, Sprint 2 still relied on the *LoginForm, DashboardForm, and BookAppointmentForm, but these parts became more meaningful and more connected than in Sprint 1.
+The LoginForm was no longer just a basic entry page; it became the point that controlled access to the rest of the system more clearly. 
+The DashboardForm also became more useful as it linked the patient to the main booking-related features in a more organised way.
+
+The biggest improvement in Sprint 2 was in the *BookAppointmentForm, because this form was now used not only for booking an appointment but also for showing **doctor availability before the booking was confirmed.
+This made the workflow more realistic, since patients could now see which slots were available before choosing one. In this way, 
+Sprint 2 improved the user experience by making the code feel less like separate pages and more like one connected process. 
+Compared with Sprint 1, this sprint showed progress in usability, feature connection, and the logic behind appointment selection.
