@@ -1,0 +1,29 @@
+Sprint 2 focused on extending the work completed in Sprint 1 and moving the NHS Patient-Centric Hospital System closer to a more connected and functional prototype. At this stage, the team selected three important user stories that support the main patient journey within the system. These stories were chosen because they create a clear flow from secure access, to checking doctor availability, to booking an appointment successfully.
+
+# US-01 – Secure Patient Login
+
+As a registered patient, I want to log in securely with my email and password so that I can access my portal and protect my personal information.
+
+This user story remained important in Sprint 2 because secure login is the foundation of the whole hospital system. A patient must be able to access the system safely before using any other feature. Without authentication, personal healthcare information and appointment functions would not be properly protected.
+
+In Sprint 2, this feature was improved to support a stronger connection between the login process and the patient dashboard. The aim was not only to allow valid users to sign in, but also to ensure that protected pages are only available after successful authentication. This helped strengthen the structure of the prototype and made the system workflow more realistic.
+
+# US-02 – Book an Appointment
+
+As a patient, I want to book an appointment with a doctor so that I can schedule care online.
+
+This user story was selected because appointment booking is one of the most important features of the entire project. It directly supports the patient-centred purpose of the system by allowing users to arrange healthcare appointments in a simple and digital way instead of relying on manual communication with hospital staff.
+
+In Sprint 2, this feature was developed further so that the booking process became more complete and practical. The system allows the patient to choose a doctor, select a date, and pick an available time slot. The main purpose of this story in Sprint 2 was to turn the booking feature into a clearer and more usable workflow, supported by a confirmation process after the appointment is submitted.
+
+# US-03 – View Doctor Availability
+
+As a patient, I want to view available doctor time slots so that I can choose a suitable appointment time before booking.
+
+This user story was selected because it adds an important step to the appointment-booking process. Before a patient books an appointment, they need to know which doctors and time slots are available. This makes the system more efficient, improves decision-making for the patient, and supports the requirement for a dynamic booking experience.
+
+In Sprint 2, this feature focused on displaying the available appointment slots in a way that could be connected to the booking form. Only available times are shown, while unavailable or already booked slots are excluded. This story helps make the booking process more realistic and supports a better user experience by reducing confusion and improving convenience.
+
+# Sprint 2 Summary
+
+Together, these three user stories created a connected workflow for the NHS Patient-Centric Hospital System during Sprint 2. Secure login protected access to the patient portal, doctor availability allowed users to review suitable consultation times, and appointment booking enabled patients to complete the booking process online. These stories were selected because they align closely with the project brief and demonstrate clear progress from the foundation established in Sprint 1.
